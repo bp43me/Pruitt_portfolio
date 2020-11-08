@@ -11,6 +11,5 @@ I hope to learn how to make my data vizualizations capture my message in a way t
 Here are all of my projects!
 
 ## Assignment 2: General Government Debt
-Here is OECD data on debt to GDP ratio, 2016
 
 [Assignment 2](/dataviz2.md)
