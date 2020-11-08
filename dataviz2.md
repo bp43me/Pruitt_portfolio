@@ -6,6 +6,6 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/4277931"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Grid of Multiseries Charts
-## In this second visualization I chose to use the grid of multiseries with a sub-section of the years (2014-2017). Showing the full period of time is easier to interpret on a grid of lines chart rather than the grid of multiseries that uses bars for each year and would become overwheling for each small chart on the grid. The grid of multi-series is better for showing a smaller amount of data and allowing the chart reader to easily drill into the value for specific year and set a distinct color for each year. 
+## In this second visualization I chose to use the grid of multiseries with a sub-section of the years (2014-2017). Showing the full period of time is easier to interpret on a grid of lines chart rather than the grid of multiseries that uses bars for each year and would become overwheling for each small chart on the grid. The grid of multi-series is better for showing a smaller amount of data and allowing the chart reader to easily drill into the value for specific year and set a distinct color for each year. Data for this visualization is sourced from OECD. Description of the data: "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP." (OECD) 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4283499"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
