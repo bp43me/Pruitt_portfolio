@@ -17,4 +17,4 @@ Here are all of my projects!
 
 ## Assignment 3 & 4
 
-[Assignment 3](/Assignment3-4.md)
+[Assignment 3 & 4](/Assignment3-4.md)
