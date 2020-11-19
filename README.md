@@ -13,3 +13,8 @@ Here are all of my projects!
 ## Assignment 2: General Government Debt
 
 [Assignment 2](/dataviz2.md)
+
+
+## Assignment 3 & 4
+
+[Assignment 3](/Assignment3-4.md)
