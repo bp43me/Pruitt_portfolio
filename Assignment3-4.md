@@ -23,5 +23,5 @@ The major critiques I received were to change the colors used for more contrast 
 
 # Final Visualization
 
-![Final] (Share of Debt and Debt Payments by Income Quintile, 2019.png)
+![Final](Share of Debt and Debt Payments by Income Quintile, 2019.png)
 
