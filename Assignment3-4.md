@@ -21,4 +21,6 @@ When showing the wireframes to others the major feedback I got was positive. Mos
 
 The major critiques I received were to change the colors used for more contrast and the labels were not clear enough, which I took into consideration when recreating my final visualization in Flourish.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/4400562"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+# Final Visualization
+
+![Final Visualization](Share of Debt and Debt Payments by Income Quintile, 2019.png)
