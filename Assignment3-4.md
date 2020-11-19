@@ -22,5 +22,4 @@ When showing the wireframes to others the major feedback I got was positive. Mos
 The major critiques I received were to change the colors used for more contrast and the labels were not clear enough, which I took into consideration when recreating my final visualization in Flourish.
 
 # Final Data Visualization
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/4400562"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<iframe src='https://flo.uri.sh/visualisation/4400562/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/4400562/?utm_source=embed&utm_campaign=visualisation/4400562' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
