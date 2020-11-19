@@ -10,6 +10,10 @@ I selected this data visualization because I am interested in the student loan c
 ## Second Wireframe
 ![Second Wireframe](barcompate.jpeg)
 
+## Final Visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4400562"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## My Process
 My process for redesigning this data included opening up the source data file on the Fed site to better understand it and see if I could use it directly for my redesign. This was a large csv file with many sheets making it difficult to tell how the data was aggregated to make a new visualization. I decided to use the data as its presented in the original instead and consider the audience and the key takeaways. I determined those were to show the comparison between each income quintiles share of the outstanding debt and their share of the monthly payments.
 
@@ -20,8 +24,4 @@ For my second wireframe I flipped the chart and turned it into side-by-side bar 
 When showing the wireframes to others the major feedback I got was positive. Most were clear on the intended audience and the key takeaways. One stated, "the audience could be to people around my age getting ready to head into college, people in college, and people who have just left or graduated college" which affirmed my idea of who the intended audience was.
 
 The major critiques I received were to change the colors used for more contrast and the labels were not clear enough, which I took into consideration when recreating my final visualization in Flourish.
-
-# Final Visualization
-
-![Final](Share of Debt and Debt Payments by Income Quintile, 2019.png)
 
