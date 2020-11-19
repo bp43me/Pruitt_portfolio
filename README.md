@@ -18,5 +18,3 @@ Here are all of my projects!
 ## Assignment 3 & 4
 
 [Assignment 3 & 4](/Assignment3-4.md)
-
-![Final](Share of Debt and Debt Payments by Income Quintile, 2019.png)
