@@ -18,3 +18,7 @@ Here are all of my projects!
 ## Assignment 3 & 4
 
 [Assignment 3 & 4](/Assignment3-4.md)
+
+## Final Project
+
+[Part 1] (/Part1FinalProject.md)
