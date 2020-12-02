@@ -22,3 +22,5 @@ Here are all of my projects!
 ## Final Project
 
 [Part 1](/Part1FinalProject.md)
+
+[Part 2](/Part2FinalProject.md)
