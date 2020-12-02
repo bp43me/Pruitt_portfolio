@@ -1,9 +1,6 @@
-# Wireframes 
+# Wireframes/Storyboard
 
-
-# Storyboard
-
-View storyboard [here](https://preview.shorthand.com/DzubWRRlPj3K8FSe)
+View storyboard with wireframes [here](https://preview.shorthand.com/DzubWRRlPj3K8FSe)
 
 # User Research Plan
 
@@ -14,6 +11,10 @@ My goal is to identify if the maps and data clearly narrate the state of water s
 ## Target audience you hope to reach with your story:
 
 I hope to reach the country representatives of the Nile River Initiative and national water resources management planners.
+
+## My approach to identifying representative individuals to interview
+
+I selected individuals who I felt would have very little context around the subject matter, but could provide useful feedback due to them being current students or having background in the education field.
 
 ## Interview script
 
