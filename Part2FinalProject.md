@@ -2,10 +2,6 @@
 
 View storyboard with wireframes [here](https://preview.shorthand.com/DzubWRRlPj3K8FSe)
 
-Wireframe sketches
-![Water Stress](/stress nile.jpg)
-
-
 # User Research Plan
 
 ## Goals
@@ -26,7 +22,7 @@ I selected individuals who I felt would have very little context around the subj
 
 The Nile River is the longest river in the world, flowing through 11-countries. It is also the only river that flows from south to north. It is a source of livelihood for the over 280 million people living in the countries along its banks and is crucial for the future of the region.
 
-Brief introduction – Hi, my name is Brittany and I am a spatial planner.
+Brief introduction – Hi, my name is Brittany and I am a spatial planner
 
 My goal today is to get your feedback on the maps and data visualizations to get a sense of whether or not they clearly narrate the state of water stress in the countries along the Nile River and the presence of factors that impact the accessibility and availability of water in the region.
 
