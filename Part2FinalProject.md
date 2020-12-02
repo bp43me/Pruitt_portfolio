@@ -50,5 +50,5 @@ I will make sure I have a clear key for all of the charts.
 
 I will use colors that are more intuitive for the map details (i.e. green for resolved and yellow for in-negotiations).
 
-Multiple interview sudjects were confused by the meaning of Water Stress as an indicator in the visualizations, so in my final version I will make sure this is clearly defined.
+Multiple interview subjects were confused by the meaning of Water Stress as an indicator in the visualizations, so in my final version I will make sure this is clearly defined.
 
