@@ -24,3 +24,5 @@ Here are all of my projects!
 [Part 1](/Part1FinalProject.md)
 
 [Part 2](/Part2FinalProject.md)
+
+[Part 3](/Part3FinalProject.md)
