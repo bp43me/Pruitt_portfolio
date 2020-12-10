@@ -1,4 +1,4 @@
-# Final data visualizations decisions
+# Final data overview
 
 For my final data, the target audience are the Nile Basin Initiative representatives, government officials who develop and influence policy for water resources management for the Nile-basin countries, as well as non-governmental organizations and donors working in the region. From the feedback I received during the user research process, the major changes made to my more intuitive legends and grayed out data on the bar chart or edited the maps to show the countries where the reader should focus their attention. I also decided to use Tableau and Shorthand to create and display my visualizations instead of ArcGIS and StoryMaps. I found it easier to make the multiple visualizations I wanted to use and add the features I wanted to highlight.
 
